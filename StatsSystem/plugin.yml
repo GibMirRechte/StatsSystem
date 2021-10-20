@@ -1,0 +1,7 @@
+name: StatsSystem
+author: RoyalAPI
+version: 1.0
+main: de.juniorinjects.statssystem.Main
+
+commands:
+   stats: 
